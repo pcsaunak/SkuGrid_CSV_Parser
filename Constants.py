@@ -1,0 +1,13 @@
+CSV_HEADER = ['Item_ID', 'Type', 'VariantSku', 'Title', 'Description', 'Brand', 'MPN', 'UPC', 'Relationship',
+              'Specific_name_1', 'Specific_value_1', 'Specific_name_2', 'Specific_value_2', 'Specific_name_3',
+              'Specific_value_3', 'Specific_name_4', 'Specific_value_4', 'Specific_name_5', 'Specific_value_5',
+              'Specific_name_6', 'Specific_value_6', 'Specific_name_7', 'Specific_value_7', 'Specific_name_8',
+              'Specific_value_8', 'Specific_name_9', 'Specific_value_9', 'Specific_name_10', 'Specific_value_10',
+              'Specific_name_11', 'Specific_value_11', 'Specific_name_12', 'Specific_value_12', 'Specific_name_13',
+              'Specific_value_13', 'Specific_name_14', 'Specific_value_14', 'Specific_name_15', 'Specific_value_15',
+              'Specific_name_16', 'Specific_value_16', 'Specific_name_17', 'Specific_value_17', 'Specific_name_18',
+              'Specific_value_18', 'Specific_name_19', 'Specific_value_19', 'Specific_name_20', 'Specific_value_20',
+              'Feature_1', 'Feature_2', 'Feature_3', 'Feature_4', 'Feature_5', 'Feature_6', 'Feature_7', 'Feature_8',
+              'Feature_9', 'Feature_10', 'Feature_11', 'Feature_12', 'Feature_13', 'Feature_14', 'Feature_15',
+              'Feature_16', 'Feature_17', 'Feature_18', 'Feature_19', 'Feature_20', 'weight', 'width', 'height',
+              'length']

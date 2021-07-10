@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>SkuFetch CSV Update</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.1/min/dropzone.min.css">
+  </head>
+  <body>
+    <h1>SkuFetch CSV Update</h1>
+    <form action="{{ url_for('upload_files') }}" class="dropzone">
+    </form>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.1/min/dropzone.min.js"></script>
+    <form action="process_csv">
+      <input type="submit" value="Process CSV">
+    </form>
+
+    <form action="getPlotCSV">
+      <input type="submit" value="Download CSV">
+    </form>
+  <h4>This is sample</h4>
+  </body>
+</html>
